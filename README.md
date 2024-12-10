@@ -1,4 +1,4 @@
-# Wavelet_CNN
+# Wavelet Transform and Convolutional Neural Network
 This approach relate how to use the Wavelet Transform to create images to train the Convolutional Neural Network
 
 ## Abstract
